@@ -1,0 +1,13 @@
+prefix=E:/Data Science Roadmap/Langchain/venv/Library
+exec_prefix=E:/Data Science Roadmap/Langchain/venv/Library
+libdir=E:/Data Science Roadmap/Langchain/venv/Library/lib
+sharedlibdir=E:/Data Science Roadmap/Langchain/venv/Library/lib
+includedir=E:/Data Science Roadmap/Langchain/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.3.1
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
