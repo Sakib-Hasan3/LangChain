@@ -141,7 +141,6 @@ Hugging Face docs অনুযায়ী sentence-transformers embeddings semanti
 
 **Hugging Face Embeddings** হলো Hugging Face ecosystem-এর embedding models ব্যবহার করে text-কে vector-এ convert করার পদ্ধতি, যা semantic search, RAG, retrieval, similarity matching-এর foundation হিসেবে কাজ করে। এগুলো local বা hosted—দুইভাবেই ব্যবহার করা যায়। ([LangChain Docs][4])
 
-তুমি চাইলে next message-এ আমি **Hugging Face Embeddings + Chroma full project (cell by cell)** দিতে পারি।
 
 [1]: https://huggingface.co/sentence-transformers?utm_source=chatgpt.com "Sentence Transformers"
 [2]: https://docs.langchain.com/oss/python/integrations/embeddings?utm_source=chatgpt.com "Embedding model integrations - Docs by LangChain"
