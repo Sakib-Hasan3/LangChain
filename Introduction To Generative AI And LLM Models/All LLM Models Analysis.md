@@ -47,56 +47,6 @@
 
 📌 উদাহরণ:
 
-=======
----
-
-# 🧠 1. LLM কী?
-
-**LLM (Large Language Model)** হলো এমন AI model
-যা বিশাল পরিমাণ text data দিয়ে train করা হয়।
-
-👉 কাজ:
-
-* লেখা তৈরি করা
-* প্রশ্নের উত্তর দেওয়া
-* কোড লেখা
-* reasoning করা
-
----
-
-# 🌍 2. প্রধান LLM Model পরিবার
-
-## 🔷 2.1 OpenAI Models
-
-📌 উদাহরণ:
-
-* GPT-4 / GPT-4o / GPT-5
-* o-series (reasoning focused)
-
-✅ সুবিধা:
-
-* সবচেয়ে ভালো reasoning
-* coding খুব শক্তিশালী
-* production-ready
-
-❌ অসুবিধা:
-
-* paid
-* closed source
-
-📌 ব্যবহার:
-
-* SaaS product
-* chatbot
-* complex AI system
-
----
-
-## 🔶 2.2 Google Models (Gemini)
-
-📌 উদাহরণ:
-
->>>>>>> ea32e5e (update)
 * Gemini 1.5 / 2.0
 
 ✅ সুবিধা:

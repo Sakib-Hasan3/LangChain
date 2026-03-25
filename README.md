@@ -1,9 +1,7 @@
-তুমি যেটা চাইছো সেটা basically **“LLM landscape full breakdown”** — কোন model কেমন, কোথায় use করা ভালো, real-world decision কীভাবে নিতে হয়।
-আমি তোমাকে YouTuber + builder mindset দিয়ে explain করছি 🔥
 
 ---
 
-# 🧠 1. LLM কী (Quick refresher)
+# 🧠 1. LLM কী 
 
 LLM = Large Language Model
 👉 massive text data দিয়ে trained AI
@@ -303,7 +301,5 @@ If you're serious about building:
 
 ---
 
-If you want, next step I can break down:
-👉 “How to choose LLM for YOUR specific project (step-by-step decision tree)”
 or
 👉 “Top 5 AI startup ideas using these models”
