@@ -8,3 +8,6 @@ bs4
 arxiv
 pymupdf
 wikipedia
+langchain_text_splitters
+langchain-openai
+langchain-chroma
